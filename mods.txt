@@ -40,6 +40,7 @@ DOWNLOAD create_radar-0.4.9.4-1.21.1.jar
 DOWNLOAD create_sna-1.2-neoforge-1.21.1.jar
 DOWNLOAD create_submarine-2.0.3.jar
 DOWNLOAD cristellib-neoforge-1.21.1-3.1.7.jar
+DOWNLOAD curios-neoforge-9.5.1+1.21.1.jar
 DOWNLOAD Design-n-Decor-1.21.1-2.1.0.jar
 DOWNLOAD DiagonalFences-v21.1.1-1.21.1-NeoForge.jar
 DOWNLOAD drivebywire-0.2.9.jar
@@ -67,6 +68,8 @@ DOWNLOAD kotlinforforge-5.11.0-all.jar
 DOWNLOAD kubejs-neoforge-2101.7.2-build.368.jar
 DOWNLOAD libraryferret-neoforge-1.21.1-4.0.0.jar
 DOWNLOAD lithostitched-1.7.9-neoforge-21.1.jar
+DOWNLOAD mcw-bridges-3.1.2-mc1.21.1neoforge.jar
+DOWNLOAD mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar
 DOWNLOAD moonlight-neoforge-1.21.1-3.0.13.jar
 DOWNLOAD netherportalfix-neoforge-1.21.1-21.1.1.jar
 DOWNLOAD NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar
@@ -94,5 +97,3 @@ DOWNLOAD voicechat-neoforge-1.21.1-2.6.17.jar
 DOWNLOAD wwoo-neoforge-2.6.4.jar
 DOWNLOAD xaerominimap-neoforge-1.21.1-25.3.13.jar
 DOWNLOAD xaeroworldmap-neoforge-1.21.1-1.40.16.jar
-DOWNLOAD mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar
-DOWNLOAD mcw-bridges-3.1.2-mc1.21.1neoforge.jar
