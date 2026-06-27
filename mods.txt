@@ -94,3 +94,5 @@ DOWNLOAD voicechat-neoforge-1.21.1-2.6.17.jar
 DOWNLOAD wwoo-neoforge-2.6.4.jar
 DOWNLOAD xaerominimap-neoforge-1.21.1-25.3.13.jar
 DOWNLOAD xaeroworldmap-neoforge-1.21.1-1.40.16.jar
+DOWNLOAD mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar
+DOWNLOAD mcw-bridges-3.1.2-mc1.21.1neoforge.jar
