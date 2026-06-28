@@ -98,3 +98,4 @@ DOWNLOAD wwoo-neoforge-2.6.4.jar
 DOWNLOAD xaerominimap-neoforge-1.21.1-25.3.13.jar
 DOWNLOAD xaeroworldmap-neoforge-1.21.1-1.40.16.jar
 DOWNLOAD Analog-Audio-0.1.0.jar
+DOWNLOAD climbable_ropes-2.1.0.jar
