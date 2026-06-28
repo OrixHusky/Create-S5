@@ -18,7 +18,7 @@ DOWNLOAD collective-1.21.1-8.22.jar
 DOWNLOAD compactflap-neoforge-1.21.1-1.0.4.1.jar
 DOWNLOAD copycats-3.0.4+mc.1.21.1-neoforge.jar
 DOWNLOAD create-1.21.1-6.0.10.jar
-DOWNLOAD create-aeronautics-bundled-1.21.1-1.2.1.jar
+DELETE create-aeronautics-bundled-1.21.1-1.2.1.jar
 DOWNLOAD create-confectionery1.21.1_v1.1.2.jar
 DOWNLOAD Create-Encased-1.21.1-1.8.1.jar
 DOWNLOAD create-enchantment-industry-2.3.1.jar
@@ -99,3 +99,4 @@ DOWNLOAD xaerominimap-neoforge-1.21.1-25.3.13.jar
 DOWNLOAD xaeroworldmap-neoforge-1.21.1-1.40.16.jar
 DOWNLOAD Analog-Audio-0.1.0.jar
 DOWNLOAD climbable_ropes-2.1.0.jar
+DOWNLOAD create-aeronautics-bundled-1.21.1-1.3.0.jar
