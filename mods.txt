@@ -78,7 +78,7 @@ DOWNLOAD PuzzlesLib-v21.1.44-1.21.1-NeoForge.jar
 DOWNLOAD resourcefullib-neoforge-1.21-3.0.12.jar
 DOWNLOAD rhino-2101.2.7-build.81.jar
 DOWNLOAD ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar
-DOWNLOAD sable-neoforge-1.21.1-1.2.1.jar
+DELETE sable-neoforge-1.21.1-1.2.1.jar
 DOWNLOAD SereneSeasons-neoforge-1.21.1-10.1.0.3.jar
 DOWNLOAD sliceanddice-forge-4.2.4.jar
 DOWNLOAD sodium-neoforge-0.6.13+mc1.21.1.jar
@@ -100,3 +100,4 @@ DOWNLOAD xaeroworldmap-neoforge-1.21.1-1.40.16.jar
 DOWNLOAD Analog-Audio-0.1.0.jar
 DOWNLOAD climbable_ropes-2.1.0.jar
 DOWNLOAD create-aeronautics-bundled-1.21.1-1.3.0.jar
+DOWNLOAD sable-neoforge-1.21.1-2.0.0.jar
