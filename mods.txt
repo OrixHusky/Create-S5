@@ -98,3 +98,11 @@ DOWNLOAD wwoo-neoforge-2.6.4.jar
 DOWNLOAD xaerominimap-neoforge-1.21.1-25.3.13.jar
 DOWNLOAD xaeroworldmap-neoforge-1.21.1-1.40.16.jar
 DOWNLOAD Analog-Audio-0.1.0.jar
+DOWNLOAD walllanterns-3.0.0.jar
+DOWNLOAD another_furniture-neoforge-4.0.2.jar
+DOWNLOAD watermedia-2.1.37.jar
+DOWNLOAD CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar
+DOWNLOAD waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar
+DOWNLOAD aeronauticscompat-1.1.2.jar
+DOWNLOAD cbc_at_Neoforge_1.21.1_0.1.4c.jar
+DOWNLOAD CBCmoreshells-1.1.5.jar
